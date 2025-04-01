@@ -2,7 +2,7 @@
 介绍
 91数字会务系统 专业 会议、活动、大会管理系统 一站式会务管理平台 预约报名、购票、现场签到、验票、日程、嘉宾、会前邀约、会中互动、会后统计等 
 
-官网地址：[http://91meeting.sunrise0591.com/](http://jtiot.jtwyled.com/91meeting/index.html)
+官网地址：http://jtiot.jtwyled.com/91meeting/index.html
 
 客服电话/微信：13075994857
 
