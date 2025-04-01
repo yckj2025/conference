@@ -9,8 +9,7 @@
 如需购买 商业版源码 请联系客服。
 
 软件说明
-
-![a9f81bea59f9734400110440c3c512b0_4fcac94a3195165bbe1b0ddd1e28bffa_image1](https://github.com/user-attachments/assets/7d5647de-a12d-4d06-808b-c59798e11218)
+![image](https://github.com/user-attachments/assets/4955b56c-7525-4e26-b0d4-b70fc6f36e27)
 
 ![6966f9e6ff2bf7eca34d6f305e1f6db8_cbdfc4a5df3107b4f58e97107d4bdc6c_image3](https://github.com/user-attachments/assets/55d2d2dc-472e-4d05-9612-d7c69f04bdac)
 
